@@ -1,19 +1,18 @@
 <div align="center">
 
-```ascii
-  █████╗ ██████╗ ███████╗██╗  ██╗    ██╗   ██╗███████╗██████╗ ███╗   ██╗ █████╗ 
- ██╔══██╗██╔══██╗██╔════╝██║  ██║    ██║   ██║██╔════╝██╔══██╗████╗  ██║██╔══██╗
- ███████║██████╔╝███████╗███████║    ██║   ██║█████╗  ██████╔╝██╔██╗ ██║███████║
- ██╔══██║██╔══██╗╚════██║██╔══██║    ╚██╗ ██╔╝██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║
- ██║  ██║██║  ██║███████║██║  ██║     ╚████╔╝ ███████╗██║  ██║██║ ╚████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+# 🎮 ARSH VERMA 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=800&lines=💻+GAME+DEV+%7C+WEB+DEV+%7C+CREATOR;🎨+BUILDING+DIGITAL+MAGIC;🔥+UNITY+•+REACT+•+NODE.JS;⚡+LET'S+CREATE+SOMETHING+EPIC!" alt="Typing SVG" />
+
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=🎮+Game+Developer+%7C+Unity+Expert;💻+Full-Stack+Web+Developer;🎨+Creative+Digital+Storyteller;🚀+Building+The+Future+One+Pixel+At+A+Time" alt="Typing SVG" />
-
-<br>
-
-**`Creative Developer & CS Student @ VIT Bhopal`**
+    ╔═══════════════════════════════════════════════════════╗
+    ║  🎯 CS Student @ VIT Bhopal                          ║
+    ║  🎮 Unity Game Developer                             ║
+    ║  💻 Full-Stack Web Developer                         ║
+    ║  🎨 Digital Storyteller                              ║
+    ║  📍 Sehore, MP, India                                ║
+    ╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -21,70 +20,147 @@
 
 <div align="center">
 
-### 🌟 **QUICK INTRO** 🌟
+## 🔥 ABOUT ME 🔥
 
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```diff
+@@                  WHO AM I?                    @@
+
++ 🎮 Unity Expert building immersive games
++ 💻 Full-stack dev crafting seamless web apps  
++ 🎨 Creative mind turning ideas into reality
++ 🏆 Multiple certifications & awards
++ 🚀 Always learning, always building
+
+@@              MY PHILOSOPHY                    @@
+
+! "Every project is a canvas for creativity"
+! "Blend technical precision with artistic vision"
+! "Build. Play. Repeat."
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## ⚡ TECH STACK ⚡
+
+### 🎮 GAME DEVELOPMENT
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 💻 WEB DEVELOPMENT
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🎨 DESIGN & TOOLS
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 MY PROJECTS 🎨
+
+</div>
+
+### 🌟 **[ARSH CREATES](https://github.com/ArshVermaGit/ARSHCREATES)** - Personal Creative Portfolio
+
+> 🎯 **Full-stack portfolio showcasing my creative journey**  
+> ⚡ Built with React | Modern UI/UX | Deployed on Vercel  
+> 🎨 Features: Dynamic content, smooth animations, responsive design
+
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/ARSHCREATES)
+
+---
+
+### 🎓 **[VTOP 2.0](https://github.com/ArshVermaGit/VTOP2.0)** - Enhanced Education Platform
+
+> 📚 **Reimagined VIT's academic portal with better UX**  
+> ✨ Modern interface | Student-friendly features | Improved navigation  
+> 💡 Making education accessible and beautiful
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/VTOP2.0)
+
+---
+
+### 📸 **[REELSPOT](https://github.com/ArshVermaGit/REELSPOT)** - Social Media Platform
+
+> 🎬 **Creative platform for visual storytelling**  
+> 🔥 Real-time interactions | Modern social features | Engaging UI  
+> 💫 Connect, share, and inspire
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/REELSPOT)
+
+---
+
+### 🍔 **ZOMATO ECOSYSTEM** - Complete Food Delivery Suite
+
+> 🚀 **Full-featured food delivery platform with 5 interconnected applications**
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
-
-#### 🎯 **WHO AM I?**
-
-```yaml
-name: Arsh Verma
-role: Creative Developer
-location: Sehore, MP, India 🇮🇳
-education: VIT Bhopal University
-specialization: 
-  - Game Development (Unity/C#)
-  - Full-Stack Web Development
-  - Visual Storytelling & Design
-motto: "Turn ideas into polished digital reality"
-```
-
+<td align="center" width="20%">
+<b>👥<br>CUSTOMER<br>APP</b><br><br>
+<a href="https://github.com/ArshVermaGit/zomato-customer-app"><img src="https://img.shields.io/badge/View-EA4335?style=for-the-badge" /></a>
 </td>
-<td width="50%" valign="top">
-
-#### ⚡ **QUICK STATS**
-
-```python
-skills = {
-    "game_dev": ["Unity", "C#", "Game Design"],
-    "web_dev": ["React", "Node.js", "MongoDB"],
-    "design": ["Figma", "UI/UX", "Visual Arts"],
-    "currently": "Building immersive experiences"
-}
-```
-
+<td align="center" width="20%">
+<b>🏪<br>RESTAURANT<br>PARTNER</b><br><br>
+<a href="https://github.com/ArshVermaGit/zomato-restaurant-partner"><img src="https://img.shields.io/badge/View-34A853?style=for-the-badge" /></a>
+</td>
+<td align="center" width="20%">
+<b>🚗<br>DELIVERY<br>PARTNER</b><br><br>
+<a href="https://github.com/ArshVermaGit/zomato-delivery-partner"><img src="https://img.shields.io/badge/View-FBBC04?style=for-the-badge" /></a>
+</td>
+<td align="center" width="20%">
+<b>⚙️<br>ADMIN<br>DASHBOARD</b><br><br>
+<a href="https://github.com/ArshVermaGit/zomato-admin-dashboard"><img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge" /></a>
+</td>
+<td align="center" width="20%">
+<b>🔌<br>BACKEND<br>API</b><br><br>
+<a href="https://github.com/ArshVermaGit/zomato-backend"><img src="https://img.shields.io/badge/View-000000?style=for-the-badge" /></a>
 </td>
 </tr>
 </table>
 
+**Tech:** MERN Stack | RESTful APIs | Real-time Updates | Microservices Architecture
+
+[![Ecosystem](https://img.shields.io/badge/View_Ecosystem-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/zomato-ecosystem)
+
+---
+
+### 🎮 **[FORAGE MIDAS](https://github.com/ArshVermaGit/forage-midas)** - Unity Game Project
+
+> 🎯 **Immersive game experience built with Unity**  
+> 🎨 Creative mechanics | Polished gameplay | Engaging visuals  
+> 🏆 Showcasing game development expertise
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/forage-midas)
+
 ---
 
 <div align="center">
 
-## 🛠️ **TECH ARSENAL**
+### 🚀 **[EXPLORE ALL MY PROJECTS](https://github.com/ArshVermaGit?tab=repositories)**
 
-</div>
-
-<div align="center">
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Repos](https://img.shields.io/badge/View_All_Repositories-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit?tab=repositories)
 
 </div>
 
@@ -92,135 +168,13 @@ skills = {
 
 <div align="center">
 
-## 🎨 **FEATURED PROJECTS**
+## 📊 GITHUB STATS 📊
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArshVermaGit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshVermaGit&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF" />
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [ARSH CREATES](https://github.com/ArshVermaGit/ARSHCREATES)
-**Personal Portfolio & Creative Showcase**
-
-```
-🎯 Full-stack portfolio website
-🎨 Dynamic visual storytelling
-⚡ Built with React & modern web tech
-🚀 Deployed on Vercel
-```
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Site-A855F7?style=for-the-badge)](https://arshcreates.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/ARSHCREATES)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [VTOP 2.0](https://github.com/ArshVermaGit/VTOP2.0)
-**Enhanced Educational Platform**
-
-```
-📚 Improved VIT academic portal
-✨ Enhanced UI/UX design
-🔧 Student-friendly features
-💡 Better user experience
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/VTOP2.0)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📸 [REELSPOT](https://github.com/ArshVermaGit/REELSPOT)
-**Social Media Platform**
-
-```
-📱 Visual content sharing platform
-🎬 Engaging user interactions
-🔥 Modern social features
-💫 Real-time updates
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/REELSPOT)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍔 **ZOMATO ECOSYSTEM**
-**Complete Food Delivery Suite**
-
-```
-👥 Customer App
-🏪 Restaurant Partner Dashboard
-🚗 Delivery Partner App
-⚙️ Admin Dashboard
-🔌 Backend API Services
-```
-
-[![Customer](https://img.shields.io/badge/Customer_App-EA4335?style=for-the-badge)](https://github.com/ArshVermaGit/zomato-customer-app)
-[![Restaurant](https://img.shields.io/badge/Restaurant-34A853?style=for-the-badge)](https://github.com/ArshVermaGit/zomato-restaurant-partner)
-[![Delivery](https://img.shields.io/badge/Delivery-FBBC04?style=for-the-badge)](https://github.com/ArshVermaGit/zomato-delivery-partner)
-[![Admin](https://img.shields.io/badge/Admin-4285F4?style=for-the-badge)](https://github.com/ArshVermaGit/zomato-admin-dashboard)
-[![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge)](https://github.com/ArshVermaGit/zomato-backend)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [FORAGE MIDAS](https://github.com/ArshVermaGit/forage-midas)
-**Game Development Project**
-
-```
-🎯 Unity game development
-🎨 Immersive gameplay
-🔥 Creative mechanics
-🏆 Polished experience
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/forage-midas)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 **MORE PROJECTS**
-**Explore My GitHub**
-
-```
-✨ 15+ repositories
-🎨 Creative experiments
-💻 Full-stack applications
-🎮 Game prototypes
-```
-
-[![View All](https://img.shields.io/badge/View_All_Repos-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 **GITHUB STATS**
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=ArshVermaGit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=10B981&text_color=FFFFFF&ring_color=A855F7" alt="GitHub Stats" width="100%" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshVermaGit&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=10B981&currStreakLabel=A855F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshVermaGit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" width="45%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshVermaGit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshVermaGit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF" />
 
 </div>
 
@@ -228,7 +182,7 @@ skills = {
 
 <div align="center">
 
-## 🎯 **CURRENT FOCUS**
+## 🎯 WHAT I'M DOING NOW 🎯
 
 </div>
 
@@ -237,22 +191,25 @@ skills = {
 <td width="33%" align="center">
 
 ### 🎮
-**Building Games**
-Unity projects with immersive mechanics
+**CREATING GAMES**
+
+Building immersive<br>Unity experiences<br>with unique mechanics
 
 </td>
 <td width="33%" align="center">
 
 ### 💻
-**Web Development**
-Full-stack apps with seamless UX
+**BUILDING APPS**
+
+Crafting full-stack<br>web applications<br>with seamless UX
 
 </td>
 <td width="33%" align="center">
 
 ### 🤝
-**Open for Collabs**
-Let's create something amazing!
+**COLLABORATING**
+
+Open to exciting<br>projects and creative<br>collaborations!
 
 </td>
 </tr>
@@ -262,54 +219,53 @@ Let's create something amazing!
 
 <div align="center">
 
-## 🌐 **CONNECT WITH ME**
+## 🌐 CONNECT WITH ME 🌐
+
+### 🌟 **Let's Create Something Epic Together!** 🌟
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arshcreates.vercel.app-A855F7?style=for-the-badge)](https://arshcreates.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-arshcreates.vercel.app-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app/index.html)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshvermadev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheArshVerma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idc.arsh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshverma.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 **"Every project is an opportunity to blend creative vision with technical precision"**
 
 <br>
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshverma.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit)
+
+<br>
+
+---
+
+### 💬 **Got an idea? Let's build it!** 💬
+
 ```javascript
-while(alive) {
-    eat();
-    code();
-    game();
-    sleep();
-    repeat();
-}
+const collaborate = () => {
+  if (you.haveIdea && i.havSkills) {
+    return "Let's create magic! 🚀";
+  }
+};
 ```
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ArshVermaGit&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ArshVermaGit&color=FF00FF&style=for-the-badge&label=VISITORS)
 
 <br>
 
-**⭐ Feel free to explore my repositories and star the ones you like! ⭐**
+### ⭐ **Star my repos if you like my work!** ⭐
 
 <br>
 
 ---
 
-**Made with 💜 by [Arsh Verma](https://arshcreates.vercel.app)**
+**💜 Crafted with passion by Arsh Verma 💜**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%" />
 
 </div>
