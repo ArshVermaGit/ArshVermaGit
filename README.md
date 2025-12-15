@@ -167,6 +167,10 @@
 <div align="center">
 
 ## 📊 GITHUB STATS 📊
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArshVermaGit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshVermaGit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshVermaGit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF" />
+</div>
 
 </div>
 
