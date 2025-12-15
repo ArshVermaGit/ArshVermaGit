@@ -74,39 +74,6 @@
 
 </div>
 
-### 🌟 **[ARSH CREATES](https://github.com/ArshVermaGit/ARSHCREATES)** - Personal Creative Portfolio
-
-> 🎯 **Full-stack portfolio showcasing my creative journey**  
-> ⚡ Built with React | Modern UI/UX | Deployed on Vercel  
-> 🎨 Features: Dynamic content, smooth animations, responsive design
-
-[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/ARSHCREATES)
-
----
-
-### 🎓 **[VTOP 2.0](https://github.com/ArshVermaGit/VTOP2.0)** - Enhanced Education Platform
-
-> 📚 **Reimagined VIT's academic portal with better UX**  
-> ✨ Modern interface | Student-friendly features | Improved navigation  
-> 💡 Making education accessible and beautiful
-
-[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://vtop20.vercel.app)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/VTOP2.0)
-
----
-
-### 📸 **[REELSPOT](https://github.com/ArshVermaGit/REELSPOT)** - Social Media Platform
-
-> 🎬 **Creative platform for visual storytelling**  
-> 🔥 Real-time interactions | Modern social features | Engaging UI  
-> 💫 Connect, share, and inspire
-
-[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://reelspot.vercel.app)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/REELSPOT)
-
----
-
 ### 🍔 **ZOMATO ECOSYSTEM** - Complete Food Delivery Suite
 
 > 🚀 **Full-featured food delivery platform with 5 interconnected applications**
@@ -140,17 +107,46 @@
 
 [![Ecosystem](https://img.shields.io/badge/View_Ecosystem-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/zomato-ecosystem)
 
+### 🌟 **[ARSH CREATES](https://github.com/ArshVermaGit/ARSHCREATES)** - Personal Creative Portfolio
+
+> 🎯 **Full-stack portfolio showcasing my creative journey**  
+> ⚡ Built with React | Modern UI/UX | Deployed on Vercel  
+> 🎨 Features: Dynamic content, smooth animations, responsive design
+
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/ARSHCREATES)
+
 ---
 
-### 🎮 **[FORAGE MIDAS](https://github.com/ArshVermaGit/forage-midas)** - Unity Game Project
+### 🎓 **[VTOP 2.0](https://github.com/ArshVermaGit/VTOP2.0)** - Enhanced Education Platform
 
-> 🎯 **Immersive game experience built with Unity**  
-> 🎨 Creative mechanics | Polished gameplay | Engaging visuals  
-> 🏆 Showcasing game development expertise
+> 📚 **Reimagined VIT's academic portal with better UX**  
+> ✨ Modern interface | Student-friendly features | Improved navigation  
+> 💡 Making education accessible and beautiful
+
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://vtop20.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/VTOP2.0)
+
+---
+
+### 📸 **[REELSPOT](https://github.com/ArshVermaGit/REELSPOT)** - Social Media Platform
+
+> 🎬 **Creative platform for visual storytelling**  
+> 🔥 Real-time interactions | Modern social features | Engaging UI  
+> 💫 Connect, share, and inspire
+
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://reelspot.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/REELSPOT)
+
+---
+
+
+### 📸 **[FORAGE MIDAS](https://github.com/ArshVermaGit/forage-midas)** - Project Contributions
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/forage-midas)
 
 ---
+
 
 <div align="center">
 
