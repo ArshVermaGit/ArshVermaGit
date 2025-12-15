@@ -2,8 +2,6 @@
 
 # 🎮 ARSH VERMA 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=800&lines=💻+GAME+DEV+%7C+WEB+DEV+%7C+CREATOR;🎨+BUILDING+DIGITAL+MAGIC;🔥+UNITY+•+REACT+•+NODE.JS;⚡+LET'S+CREATE+SOMETHING+EPIC!" alt="Typing SVG" />
-
 ```
     ╔═══════════════════════════════════════════════════════╗
     ║  🎯 CS Student @ VIT Bhopal                          ║
