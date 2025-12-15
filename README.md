@@ -265,14 +265,10 @@ RESTful APIs,<br>auth system,<br>database
 ## 📊 GITHUB ANALYTICS 📊
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArshVermaGit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF00FF" />
-
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshVermaGit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshVermaGit&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
 
 <br>
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=ArshVermaGit&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
