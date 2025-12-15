@@ -74,6 +74,19 @@
 
 </div>
 
+---
+
+### 🌟 **[ARSH CREATES](https://github.com/ArshVermaGit/ARSHCREATES)** - Personal Creative Portfolio
+
+> 🎯 **Full-stack portfolio showcasing my creative journey**  
+> ⚡ Built with React | Modern UI/UX | Deployed on Vercel  
+> 🎨 Features: Dynamic content, smooth animations, responsive design
+
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/ARSHCREATES)
+
+---
+
 ### 🍔 **ZOMATO ECOSYSTEM** - Complete Food Delivery Suite
 
 > 🚀 **Full-featured food delivery platform with 5 interconnected applications**
@@ -107,15 +120,6 @@
 
 [![Ecosystem](https://img.shields.io/badge/View_Ecosystem-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/zomato-ecosystem)
 
-### 🌟 **[ARSH CREATES](https://github.com/ArshVermaGit/ARSHCREATES)** - Personal Creative Portfolio
-
-> 🎯 **Full-stack portfolio showcasing my creative journey**  
-> ⚡ Built with React | Modern UI/UX | Deployed on Vercel  
-> 🎨 Features: Dynamic content, smooth animations, responsive design
-
-[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/ARSHCREATES)
-
 ---
 
 ### 🎓 **[VTOP 2.0](https://github.com/ArshVermaGit/VTOP2.0)** - Enhanced Education Platform
@@ -142,6 +146,8 @@
 
 
 ### 📸 **[FORAGE MIDAS](https://github.com/ArshVermaGit/forage-midas)** - Project Contributions
+
+> 💡 **Developing My Skills Through Contributions**
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/forage-midas)
 
