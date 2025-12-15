@@ -95,6 +95,7 @@
 > ✨ Modern interface | Student-friendly features | Improved navigation  
 > 💡 Making education accessible and beautiful
 
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://vtop20.vercel.app)
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/VTOP2.0)
 
 ---
@@ -105,6 +106,7 @@
 > 🔥 Real-time interactions | Modern social features | Engaging UI  
 > 💫 Connect, share, and inspire
 
+[![Website](https://img.shields.io/badge/🌐_Live_Website-FF00FF?style=for-the-badge)](https://reelspot.vercel.app)
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshVermaGit/REELSPOT)
 
 ---
@@ -228,7 +230,7 @@ Open to exciting<br>projects and creative<br>collaborations!
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshvermadev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheArshVerma)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheArshVerma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idc.arsh)
 
 <br>
