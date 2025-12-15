@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=ARSH%20VERMA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=600&lines=🎮+Unity+Game+Developer;💻+Full-Stack+Web+Developer;🎨+Digital+Storyteller;🚀+Building+Immersive+Experiences;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%AE+Unity+Game+Developer;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%8E%A8+Digital+Storyteller;%F0%9F%9A%80+Building+Immersive+Experiences;%E2%9C%A8+Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 
 <br>
 
