@@ -2,6 +2,8 @@
 
 # 🎮 ARSH VERMA 🚀
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=800&lines=💻+GAME+DEV+%7C+WEB+DEV+%7C+CREATOR;🎨+BUILDING+DIGITAL+MAGIC;🔥+UNITY+•+REACT+•+NODE.JS;⚡+LET'S+CREATE+SOMETHING+EPIC!" alt="Typing SVG" />
+
 ```
     ╔═══════════════════════════════════════════════════════╗
     ║  🎯 CS Student @ VIT Bhopal                          ║
@@ -20,10 +22,6 @@
 
 ## 🔥 ABOUT ME 🔥
 
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```diff
 @@                  WHO AM I?                    @@
 
@@ -40,7 +38,7 @@
 ! "Build. Play. Repeat."
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -230,7 +228,7 @@ Open to exciting<br>projects and creative<br>collaborations!
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshvermadev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheArshVerma)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheArshVerma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/idc.arsh)
 
 <br>
