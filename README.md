@@ -248,7 +248,7 @@ RESTful APIs,<br>auth system,<br>database
 
 <div align="center">
 
-### 🚀 MORE PROJECTS
+### 🚀 GITHUB CONTRIBUTIONS
 
 [![Forage Midas](https://img.shields.io/badge/💡_FORAGE_MIDAS-Contributions-00D9FF?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/forage-midas)
 
