@@ -213,10 +213,10 @@ RESTful APIs,<br>auth system,<br>database
 <!-- Project 3: SimplyPDF -->
 <div align="center">
 
-### 🎓 SimplyPDF - PDF Editor Tool
+### 📁 SimplyPDF - PDF Editor Tool
 
 <a href="https://simplypdf.vercel.app">
-  <img src="https://img.shields.io/badge/📚_REIMAGINED_ACADEMIC_PORTAL-4285F4?style=for-the-badge&logoColor=white" alt="SimplyPDF" height="35"/>
+  <img src="https://img.shields.io/badge/📁_PDF_Editor_Tool-4285F4?style=for-the-badge&logoColor=white" alt="SimplyPDF" height="35"/>
 </a>
 
 **The Ultimate Premium Suite for Your PDF Needs**
