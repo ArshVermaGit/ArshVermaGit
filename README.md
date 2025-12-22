@@ -210,6 +210,24 @@ RESTful APIs,<br>auth system,<br>database
 
 ---
 
+<!-- Project 3: SimplyPDF -->
+<div align="center">
+
+### 🎓 SimplyPDF - PDF Editor Tool
+
+<a href="https://simplypdf.vercel.app">
+  <img src="https://img.shields.io/badge/📚_REIMAGINED_ACADEMIC_PORTAL-4285F4?style=for-the-badge&logoColor=white" alt="SimplyPDF" height="35"/>
+</a>
+
+**The Ultimate Premium Suite for Your PDF Needs**
+
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-vtop20.vercel.app-FF00FF?style=for-the-badge)](https://simplypdf.vercel.app)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/SimplyPDF.com)
+
+</div>
+
+---
+
 <!-- Project 3: VTOP 2.0 -->
 <div align="center">
 
