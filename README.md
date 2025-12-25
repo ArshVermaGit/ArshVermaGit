@@ -142,10 +142,10 @@ const portfolio = {
 <!-- Project 2: RAW.AI -->
 <div align="center">
 
-### 📁 RAW.AI - AI Text Humanizer
+### 🤖 RAW.AI - AI Text Humanizer
 
 <a href="https://rawai-arshvermagit.vercel.app">
-  <img src="https://img.shields.io/badge/🤖_PDF_Editor_Tool-4285F4?style=for-the-badge&logoColor=white" alt="RAW.AI" height="35"/>
+  <img src="https://img.shields.io/badge/🤖_Text_Humanizer_AI-4285F4?style=for-the-badge&logoColor=white" alt="RAW.AI" height="35"/>
 </a>
 
 **The Ultimate Premium Suite for Your AI Content Needs**
@@ -267,13 +267,13 @@ RESTful APIs,<br>auth system,<br>database
 <!-- Project 6: REELSPOT -->
 <div align="center">
 
-### 📸 REELSPOT - Social Media Platform
+### 📸 REELSPOT - Media Downloader Platform
 
 <a href="https://reelspot.vercel.app">
-  <img src="https://img.shields.io/badge/🎬_VISUAL_STORYTELLING_PLATFORM-E1306C?style=for-the-badge&logoColor=white" alt="REELSPOT" height="35"/>
+  <img src="https://img.shields.io/badge/🎬_MEDIA_DOWNLOADER_PLATFORM-E1306C?style=for-the-badge&logoColor=white" alt="REELSPOT" height="35"/>
 </a>
 
-**Connect, Share, Inspire | Real-time interactions | Modern social features**
+**5 Social Platforms Support, Fast Downloading**
 
 [![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-reelspot-FF00FF?style=for-the-badge)](https://reelspot.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/REELSPOT)
@@ -299,8 +299,7 @@ RESTful APIs,<br>auth system,<br>database
 <div align="center">
 
 ## 📊 GITHUB ANALYTICS 📊
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArshVermaGit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF00FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArshVermaGit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&ring_color=FF00FF" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshVermaGit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshVermaGit&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" />
 
