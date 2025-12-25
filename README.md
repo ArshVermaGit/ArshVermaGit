@@ -132,7 +132,7 @@ const portfolio = {
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-arshcreates.vercel.app-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-arshcreates-FF00FF?style=for-the-badge)](https://arshcreates.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/ARSHCREATES)
 
 </div>
@@ -150,7 +150,7 @@ const portfolio = {
 
 **The Ultimate Premium Suite for Your AI Content Needs**
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-rawai-arshvermagit.vercel.app-FF00FF?style=for-the-badge)](https://rawai-arshvermagit.vercel.app)
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-raw.ai-FF00FF?style=for-the-badge)](https://rawai-arshvermagit.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/RAW-AI)
 
 </div>
@@ -239,7 +239,7 @@ RESTful APIs,<br>auth system,<br>database
 
 **The Ultimate Premium Suite for Your PDF Needs**
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-simplypdf.vercel.app-FF00FF?style=for-the-badge)](https://simplypdf.vercel.app)
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-simplypdf-FF00FF?style=for-the-badge)](https://simplypdf.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/SimplyPDF.com)
 
 </div>
@@ -257,7 +257,7 @@ RESTful APIs,<br>auth system,<br>database
 
 **Making education accessible, beautiful, and student-friendly**
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-vtop20.vercel.app-FF00FF?style=for-the-badge)](https://vtop20.vercel.app)
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-vtop2.0-FF00FF?style=for-the-badge)](https://vtop20.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/VTOP2.0)
 
 </div>
@@ -275,7 +275,7 @@ RESTful APIs,<br>auth system,<br>database
 
 **Connect, Share, Inspire | Real-time interactions | Modern social features**
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-reelspot.vercel.app-FF00FF?style=for-the-badge)](https://reelspot.vercel.app)
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-reelspot-FF00FF?style=for-the-badge)](https://reelspot.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/REELSPOT)
 
 </div>
