@@ -145,7 +145,7 @@ const portfolio = {
 ### 📁 RAW.AI - AI Text Humanizer
 
 <a href="https://rawai-arshvermagit.vercel.app">
-  <img src="https://img.shields.io/badge/📁_PDF_Editor_Tool-4285F4?style=for-the-badge&logoColor=white" alt="RAW.AI" height="35"/>
+  <img src="https://img.shields.io/badge/🤖_PDF_Editor_Tool-4285F4?style=for-the-badge&logoColor=white" alt="RAW.AI" height="35"/>
 </a>
 
 **The Ultimate Premium Suite for Your AI Content Needs**
