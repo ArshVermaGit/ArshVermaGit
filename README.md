@@ -150,7 +150,7 @@ const portfolio = {
 
 **The Ultimate Premium Suite for Your AI Content Needs**
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-raw.ai-FF00FF?style=for-the-badge)](https://rawai-arshvermagit.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-raw.ai-FF00FF?style=for-the-badge)](https://rawai-arshvermagit.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/RAW-AI)
 
 </div>
