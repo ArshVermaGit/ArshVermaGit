@@ -139,7 +139,25 @@ const portfolio = {
 
 ---
 
-<!-- Project 2: Zomato Ecosystem -->
+<!-- Project 2: RAW.AI -->
+<div align="center">
+
+### 📁 RAW.AI - AI Text Humanizer
+
+<a href="https://rawai-arshvermagit.vercel.app">
+  <img src="https://img.shields.io/badge/📁_PDF_Editor_Tool-4285F4?style=for-the-badge&logoColor=white" alt="RAW.AI" height="35"/>
+</a>
+
+**The Ultimate Premium Suite for Your AI Content Needs**
+
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-rawai-arshvermagit.vercel.app-FF00FF?style=for-the-badge)](https://rawai-arshvermagit.vercel.app)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/RAW-AI)
+
+</div>
+
+---
+
+<!-- Project 3: Zomato Ecosystem -->
 <div align="center">
 
 ### 🍔 ZOMATO ECOSYSTEM - Complete Food Delivery Platform
@@ -210,7 +228,7 @@ RESTful APIs,<br>auth system,<br>database
 
 ---
 
-<!-- Project 3: SimplyPDF -->
+<!-- Project 4: SimplyPDF -->
 <div align="center">
 
 ### 📁 SimplyPDF - PDF Editor Tool
@@ -221,14 +239,14 @@ RESTful APIs,<br>auth system,<br>database
 
 **The Ultimate Premium Suite for Your PDF Needs**
 
-[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-vtop20.vercel.app-FF00FF?style=for-the-badge)](https://simplypdf.vercel.app)
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-simplypdf.vercel.app-FF00FF?style=for-the-badge)](https://simplypdf.vercel.app)
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-View_on_GitHub-000000?style=for-the-badge&logo=github)](https://github.com/ArshVermaGit/SimplyPDF.com)
 
 </div>
 
 ---
 
-<!-- Project 3: VTOP 2.0 -->
+<!-- Project 5: VTOP 2.0 -->
 <div align="center">
 
 ### 🎓 VTOP 2.0 - Enhanced Education Platform
@@ -246,7 +264,7 @@ RESTful APIs,<br>auth system,<br>database
 
 ---
 
-<!-- Project 4: REELSPOT -->
+<!-- Project 6: REELSPOT -->
 <div align="center">
 
 ### 📸 REELSPOT - Social Media Platform
