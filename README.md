@@ -180,7 +180,3 @@ Professional simulation & open-source contribution
 ##
 
 ✨ **"Turning great ideas into polished, engaging digital reality"** ✨
-
-![](https://komarev.com/ghpvc/?username=ArshVermaGit&color=000000&style=flat-square)
-
-</div>
