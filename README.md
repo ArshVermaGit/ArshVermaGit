@@ -12,14 +12,14 @@
 
 ### 👨‍💻 About Me
 
-</div>
-
 🎮 Tech Gaming Technology student at **VIT Bhopal** 🎓 • Full-stack digital creator specializing in **Unity game development** 🕹️, dynamic web applications 🌐, and mobile solutions 📱 • Every project blends creative vision ✨ with technical precision 💻
 
 **Philosophy:** 💡 Turning great ideas into polished, engaging digital reality ✨  
 **Focus:** 🎯 Seamless user experiences across all platforms 🚀
 
 <br/>
+
+</div>
 
 <div align="center">
 
