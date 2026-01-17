@@ -26,7 +26,7 @@ Tech Gaming Technology student at **VIT Bhopal** • Full-stack digital creator 
 ### ☕ Support My Work
 
 <a href="https://www.buymeacoffee.com/ArshVerma">
-  <img src="public/yellow-button.png" />
+  <img src="public/yellow-button.png" width="200" />
 </a>
 
 <br/><br/>
