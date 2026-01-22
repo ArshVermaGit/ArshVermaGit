@@ -12,19 +12,15 @@
 
 ### 👨‍💻 About Me
 
-🎮 Tech Gaming Technology student at **VIT Bhopal** 🎓  
-Full-stack digital creator specializing in **Unity game development** 🕹️, dynamic web applications 🌐, and mobile solutions 📱  
+Tech Gaming Technology student at **VIT Bhopal** 🎓  
+Full-Stack digital creator specializing in **Unity Game Development** 🎮, **Web Applications** 🌐 and **Mobile Solutions** 📱  
 
-Every project blends **creative vision ✨ + technical precision 💻**
+Focused on crafting polished, user-centric digital experiences with a blend of **creative vision + technical precision**.
 
-**Philosophy:** 💡 Turning ideas into polished digital reality  
-**Focus:** 🎯 Seamless experiences across platforms
+**Philosophy:** ideas deserve to be well-executed  
+**Goal:** build tools, products, and playful systems that matter
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
@@ -38,7 +34,15 @@ Every project blends **creative vision ✨ + technical precision 💻**
 
 <br/>
 
----
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/arshvermadev/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+<a href="https://x.com/TheArshVerma"><img src="https://skillicons.dev/icons?i=twitter" width="42"/></a>
+<a href="https://www.instagram.com/idc.arsh/"><img src="https://skillicons.dev/icons?i=instagram" width="42"/></a>
+
+</div>
 
 <br/>
 
@@ -52,11 +56,6 @@ Every project blends **creative vision ✨ + technical precision 💻**
 
 <br/><br/>
 
-## 📂 Explore My Repositories
-
-**Dive into my projects below ⬇️**  
-From web apps 🌐 to AI tools 🤖, game dev 🎮 to full-stack platforms 💻
+📌 _Pinned projects below speak for themselves 👇_
 
 </div>
-
-<br/>
