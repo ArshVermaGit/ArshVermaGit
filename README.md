@@ -8,6 +8,8 @@
 
 </div>
 
+<!-- ========== ABOUT SECTION ========== -->
+
 <div align="center">
 
 ### 👨‍💻 About Me
@@ -21,6 +23,21 @@
 
 </div>
 
+<!-- ========== TECH STACK SECTION ========== -->
+
+<div align="center">
+
+## 🧰 Tech Stack & Tools
+
+</div>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,redux,ts,js,d3,threejs,tailwind,bootstrap,materialui,nodejs,express,django,flask,php,spring,java,python,ruby,postgres,mongodb,mysql,redis,sqlite,aws,azure,gcp,docker,kubernetes,vercel,netlify,cloudflare,jest,cypress,figma,postman,git,github,vscode,nginx&perline=12" />
+</div>
+
+
+<br/><br/>
+
 <div align="center">
 
 ### ☕ Support My Work
@@ -29,7 +46,7 @@
   <img src="public/yellow-button.png" width="200" />
 </a>
 
-
+<br/>
 
 ### 📂 Explore My Repositories
 
