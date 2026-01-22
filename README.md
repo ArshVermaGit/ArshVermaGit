@@ -32,8 +32,13 @@
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,redux,ts,js,d3,threejs,tailwind,bootstrap,materialui,nodejs,express,django,flask,php,spring,java,python,ruby,postgres,mongodb,mysql,redis,sqlite,aws,azure,gcp,docker,kubernetes,vercel,netlify,cloudflare,jest,cypress,figma,postman,git,github,vscode,nginx&perline=12" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,unity,cs,supabase,vercel,git,github,vscode,vite,docker,aws,postman,figma,mongodb,mysql,postgres,graphql,cloudflare,nginx,linux&perline=13" />
+
 </div>
+
+
+
 
 
 <br/><br/>
