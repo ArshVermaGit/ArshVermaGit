@@ -14,7 +14,6 @@
 
 Tech Gaming Technology student at **VIT Bhopal** 🎓  
 Full-Stack digital creator specializing in **Unity Game Development** 🎮, **Web Applications** 🌐 and **Mobile Solutions** 📱  
-
 Focused on crafting polished, user-centric digital experiences with a blend of **creative vision + technical precision**.
 
 **Philosophy:** ideas deserve to be well-executed  
