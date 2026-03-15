@@ -35,6 +35,18 @@ Focused on crafting polished, user-centric digital experiences with a blend of *
 
 <div align="center">
 
+## ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/ArshVerma">
+  <img src="public/yellow-button.png" width="200" />
+</a>
+
+<br/><br/>
+
+</div>
+
+<div align="center">
+
 ## 🔗 Connect With Me
 
 <a href="https://www.linkedin.com/in/arshvermadev/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
@@ -46,14 +58,6 @@ Focused on crafting polished, user-centric digital experiences with a blend of *
 <br/>
 
 <div align="center">
-
-## ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/ArshVerma">
-  <img src="public/yellow-button.png" width="200" />
-</a>
-
-<br/><br/>
 
 📌 _Pinned projects below speak for themselves 👇_
 
