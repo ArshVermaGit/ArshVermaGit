@@ -7,7 +7,6 @@
 </div>
 
 <br/>
-
 <div align="center">
 
 ### 👨‍💻 About Me
