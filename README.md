@@ -2,23 +2,23 @@
 
 # ARSH VERMA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=🤖+AI+Agent+Engineer;⚡+Automation+Systems+Builder;🚀+SaaS+AI+Product+Engineer;🌐+Open+Source+Contributor;🧠+Building+Systems+That+Think+%26+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=🤖+AI+Systems+Engineer;⚡+Multi-Agent+%26+Automation+Platforms;🚀+Automation-First+AI+Systems;🧠+I+Build+Systems+That+Replace+Real+Workflows" alt="Typing SVG" />
 
 <br/>
 
 ### 👨‍💻 About Me
 
-AI Systems Engineer (Agents & Automation) & Open Source Contributor at **VIT Bhopal** 🎓 · Open to **freelance AI projects** & **startup collabs**
+**AI Systems Engineer building Multi-Agent & Automation Platforms** · Open Source Contributor at **VIT Bhopal** 🎓
 
-Building **multi-agent AI systems** 🤖, **automation pipelines** ⚡ and **GenAI SaaS products** 🚀 that replace manual workflows with intelligent, self-running systems.
+I build **automation-first AI systems** that replace real-world developer and business workflows with intelligent, self-running pipelines.
 
-Focused on **LLM orchestration**, real-world deployment, and replacing manual developer & business workflows with intelligent systems — shipped RAW.AI (AI SaaS · 21+ stars · 50+ languages · &lt;3s response) and an Autonomous Multi-Agent Organization system.
+Shipped **RAW.AI** — AI SaaS product · 21+ GitHub stars · 50+ languages · &lt;3s response time. Built an **Autonomous Multi-Agent Organization** system where agents collaborate across software tasks autonomously.
 
-Sharpening DSA & problem solving on **LeetCode** and **GeeksForGeeks** 🧩
+Open to **freelance AI projects** & **early-stage startup collabs** in automation & GenAI.
 
 **Philosophy:** if it can be automated intelligently, it should be
 <br/>
-**Goal:** ship multi-agent AI systems and SaaS products that solve real business automation problems at scale
+**Goal:** become the go-to engineer for automation-first AI systems that actually ship
 
 <br/>
 
