@@ -2,21 +2,22 @@
 
 # ARSH VERMA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Digital+Creator;🎮+Unity+Game+Developer;🎓+VIT+Bhopal+Tech+Gaming+Technology;✨+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=🤖+AI+Agent+Engineer;⚡+Automation+Systems+Builder;🚀+SaaS+AI+Product+Engineer;🧠+Building+Systems+That+Think+%26+Ship" alt="Typing SVG" />
 
 </div>
 
 <br/>
+
 <div align="center">
 
 ### 👨‍💻 About Me
 
-Tech Gaming Technology student at **VIT Bhopal** 🎓  
-Full-Stack digital creator specializing in **Unity Game Development** 🎮, **Web Applications** 🌐 and **Mobile Solutions** 📱  
-Focused on crafting polished, user-centric digital experiences with a blend of **creative vision + technical precision**.
+AI Product Engineer at **VIT Bhopal** 🎓  
+Building **AI Agents** 🤖, **Automation Systems** ⚡ and **SaaS Products** 🚀 that replace manual work with intelligent pipelines.  
+Focused on LLM orchestration, multi-agent systems, and shipping AI as a real product — with **technical depth + product thinking**.
 
-**Philosophy:** ideas deserve to be well-executed  
-**Goal:** build tools, products, and playful systems that matter
+**Philosophy:** if it can be automated intelligently, it should be  
+**Goal:** ship AI agents and SaaS products that solve real business problems at scale
 
 </div>
 
@@ -26,7 +27,7 @@ Focused on crafting polished, user-centric digital experiences with a blend of *
 
 ## 🧰 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,unity,cs,supabase,vercel,git,github,vscode,vite,docker,aws,postman,figma,mongodb,mysql,postgres,graphql,cloudflare,nginx,linux&perline=13" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,fastapi,nodejs,supabase,vercel,git,github,vscode,docker,redis,postgres,mongodb,linux,figma,cloudflare&perline=10" />
 
 </div>
 
