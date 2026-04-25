@@ -8,17 +8,17 @@
 
 ### 👨‍💻 About Me
 
-AI Product Engineer & Open Source Contributor at **VIT Bhopal** 🎓 · Open to **freelance AI projects** & **startup collabs**
+AI Systems Engineer (Agents & Automation) & Open Source Contributor at **VIT Bhopal** 🎓 · Open to **freelance AI projects** & **startup collabs**
 
-Building **AI Agents** 🤖, **Automation Systems** ⚡ and **SaaS Products** 🚀 that replace manual work with intelligent pipelines.
+Building **multi-agent AI systems** 🤖, **automation pipelines** ⚡ and **GenAI SaaS products** 🚀 that replace manual workflows with intelligent, self-running systems.
 
-Focused on LLM orchestration, multi-agent systems, and shipping AI as a real product — with **technical depth + product thinking**.
+Focused on **LLM orchestration**, real-world deployment, and replacing manual developer & business workflows with intelligent systems — shipped RAW.AI (AI SaaS · 21+ stars · 50+ languages · &lt;3s response) and an Autonomous Multi-Agent Organization system.
 
 Sharpening DSA & problem solving on **LeetCode** and **GeeksForGeeks** 🧩
 
 **Philosophy:** if it can be automated intelligently, it should be
 <br/>
-**Goal:** ship AI agents and SaaS products that solve real business problems at scale
+**Goal:** ship multi-agent AI systems and SaaS products that solve real business automation problems at scale
 
 <br/>
 
