@@ -12,8 +12,6 @@
 
 I build **automation-first AI systems** that replace real-world developer and business workflows with intelligent, self-running pipelines.
 
-Shipped **RAW.AI** — AI SaaS product · 21+ GitHub stars · 50+ languages · &lt;3s response time. Built an **Autonomous Multi-Agent Organization** system where agents collaborate across software tasks autonomously.
-
 Open to **freelance AI projects** & **early-stage startup collabs** in automation & GenAI.
 
 **Philosophy:** if it can be automated intelligently, it should be
