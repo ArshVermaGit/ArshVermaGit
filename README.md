@@ -80,8 +80,13 @@ Open to **freelance projects** & **early-stage startup collabs** in frontend & f
 
 ## 🏆 Coding & ML Profiles
 
-<a href="https://leetcode.com/u/arsh-leetcode/">
-  <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" width="48" height="48" alt="LeetCode"/>
+<a href="https://leetcode.com/u/arsh-leetcode/" target="_blank">
+  <img
+    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.jpg"
+    width="48"
+    height="48"
+    alt="LeetCode"
+  />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/arshver3wu0">
   <img src="https://images.yourstory.com/cs/images/companies/119169043101580097794440231905187057223611079n-1617083628661.png" width="48" height="48" alt="GeeksForGeeks"/>
