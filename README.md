@@ -19,7 +19,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 **🎯 Goal:** Become the go-to frontend engineer for products that actually ship and scale.
 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
@@ -43,7 +43,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
   />
 </a>
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
@@ -89,7 +89,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 </a>
 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
@@ -124,7 +124,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest&perline=10" />
 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
@@ -167,7 +167,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 </a>
 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
@@ -183,7 +183,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 </a>
 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
@@ -198,7 +198,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 </a>
 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <br/>
 
