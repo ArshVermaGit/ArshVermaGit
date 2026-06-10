@@ -97,7 +97,7 @@ Open to **freelance projects** & **early-stage startup collabs** in frontend & f
 ## 🌍 Open Source
 
 <a href="https://gssoc.girlscript.org/profile/a63f72ca-a146-4fca-b91a-6ebae839a029">
-  <img src="https://avatars.githubusercontent.com/u/166525102?s=200&v=4" width="48" height="48" alt="GSSoC"/>
+  <img src="https://gssoc.girlscript.org/icon-16.png" width="48" height="48" alt="GSSoC">
 </a>
 
 <br/>
