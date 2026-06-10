@@ -35,8 +35,9 @@ Open to **freelance projects** & **early-stage startup collabs** in frontend & f
 
 <a href="mailto:arshverma.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"/></a>
 <a href="https://www.linkedin.com/in/arshvermadev/"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
-<a href="https://dev.to/arshvermadev"><img src="https://skillicons.dev/icons?i=devto" width="42"/></a>
+<a href="https://discord.com/users/975373913980825610"><img src="https://skillicons.dev/icons?i=discord" width="42"/></a>
 <a href="https://x.com/TheArshVerma"><img src="https://skillicons.dev/icons?i=twitter" width="42"/></a>
+<a href="https://dev.to/arshvermadev"><img src="https://skillicons.dev/icons?i=devto" width="42"/></a>
 <a href="https://wa.me/919555532013"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="42"/></a>
 <a href="https://www.instagram.com/idc.arsh/"><img src="https://skillicons.dev/icons?i=instagram" width="42"/></a>
 <a href="https://www.youtube.com/@ArshCreates">
