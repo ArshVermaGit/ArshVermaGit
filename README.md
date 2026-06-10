@@ -2,10 +2,6 @@
 
 # ARSH VERMA
 
-<p align="center">
-  🟢 Available for Freelance Projects & Early-Stage Startup Collaborations
-</p>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=💻+Frontend+Developer;🌟+Open+Source+Contributor;🚀+Building+Real-World+Web+Experiences;⚡+Shipping+Products+People+Actually+Use" alt="Typing SVG" />
 
 <br/>
