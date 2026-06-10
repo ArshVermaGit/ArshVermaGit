@@ -39,6 +39,9 @@ Open to **freelance projects** & **early-stage startup collabs** in frontend & f
 <a href="https://x.com/TheArshVerma"><img src="https://skillicons.dev/icons?i=twitter" width="42"/></a>
 <a href="https://wa.me/919555532013"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="42"/></a>
 <a href="https://www.instagram.com/idc.arsh/"><img src="https://skillicons.dev/icons?i=instagram" width="42"/></a>
+<a href="https://www.youtube.com/@ArshCreates">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="42" alt="YouTube"/>
+</a>
 
 <br/>
 
