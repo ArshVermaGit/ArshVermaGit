@@ -2,13 +2,13 @@
 
 # ARSH VERMA
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=🌐+Frontend+Developer;⚡+Open+Source+Contributor+%40+GSSoC;🚀+Building+Real-World+Web+Experiences;🧠+I+Ship+Products+That+People+Actually+Use" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=🌐+Frontend+Developer;⚡+Open+Source+Contributor;🚀+Building+Real-World+Web+Experiences;🧠+I+Ship+Products+That+People+Actually+Use" alt="Typing SVG" />
 
 <br/>
 
 ### 👨‍💻 About Me
 
-**Frontend Developer building modern web apps & open source tools** · Open Source Contributor at **GSSoC** 🎓
+**Frontend Developer building modern web apps & open source tools** · Open Source Contributor 🎓
 
 I build **clean, fast, and functional interfaces** that replace clunky workflows with seamless user experiences.
 
@@ -77,16 +77,16 @@ Open to **freelance projects** & **early-stage startup collabs** in frontend & f
 ## 🏆 Coding & ML Profiles
 
 <a href="https://leetcode.com/u/arsh-leetcode/">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="48" height="48" alt="LeetCode"/>
+  <img src="https://miro.medium.com/0*xJCLQQRZv3XFMUd1" width="48" height="48" alt="LeetCode"/>
 </a>
 <a href="https://www.geeksforgeeks.org/profile/arshver3wu0">
-  <img src="https://img.icons8.com/color/96/GeeksforGeeks.png" width="48" height="48" alt="GeeksForGeeks"/>
+  <img src="https://images.yourstory.com/cs/images/companies/119169043101580097794440231905187057223611079n-1617083628661.png" width="48" height="48" alt="GeeksForGeeks"/>
 </a>
 <a href="https://www.kaggle.com/arshvermadev">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" width="48" height="48" alt="Kaggle"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtl2QZhIZY0tLREWEAuan3YtJ3KSgS-ZH6wmiJu9BhDZhjiU39ZC5shbH&s=10" width="48" height="48" alt="Kaggle"/>
 </a>
 <a href="https://huggingface.co/ArshVerma">
-  <img src="https://img.icons8.com/fluency/96/hugging-face_app.png" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7vATgNn6WwvF5f8kkQNpomEPNAROpayuruDByyeFra2J5ROWJf1itRoZ&s=10" width="48" height="48" alt="Hugging Face"/>
 </a>
 
 <br/>
