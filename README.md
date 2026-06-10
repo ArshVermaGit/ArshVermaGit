@@ -18,9 +18,6 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 
 **🎯 Goal:** Become the go-to frontend engineer for products that actually ship and scale.
 
-
-<div style="height: 20px;"></div>
-
 <br/>
 
 ## 📄 Resume & Portfolio
@@ -42,8 +39,6 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
     alt="Portfolio Website"
   />
 </a>
-
-<div style="height: 20px;"></div>
 
 <br/>
 
@@ -88,9 +83,6 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
   />
 </a>
 
-
-<div style="height: 20px;"></div>
-
 <br/>
 
 ## 🛠️ Tech Stack & Tools
@@ -122,9 +114,6 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 ### 🔧 Dev Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest&perline=10" />
-
-
-<div style="height: 20px;"></div>
 
 <br/>
 
@@ -166,24 +155,48 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
   />
 </a>
 
-
-<div style="height: 20px;"></div>
-
 <br/>
 
 ## 🌍 Open Source
 
-<a href="https://gssoc.girlscript.org/profile/a63f72ca-a146-4fca-b91a-6ebae839a029">
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/a63f72ca-a146-4fca-b91a-6ebae839a029">
+    <img
+      src="https://gssoc.girlscript.org/icon-16.png"
+      width="70"
+      height="70"
+      alt="GSSoC"
+    />
+  </a>
+</p>
+
+<h3 align="center">GirlScript Summer of Code 2026</h3>
+
+<p align="center">
+  Open Source Contributor • Community Collaborator • Builder
+</p>
+
+<p align="center">
   <img
-    src="https://gssoc.girlscript.org/icon-16.png"
-    width="48"
-    height="48"
-    alt="GSSoC"
+    src="public/gssoc-badge-gssoc_champion.png"
+    width="170"
+    alt="GSSoC Contributor Badge"
   />
-</a>
+  <img
+    src="public/gssoc-badge-legend.png"
+    width="170"
+    alt="GSSoC Legend Badge"
+  />
+  <img
+    src="public/gssoc-badge-top_10.png"
+    width="170"
+    alt="GSSoC Top 10 Badge"
+  />
+</p>
 
-
-<div style="height: 20px;"></div>
+<p align="center">
+  🏅 Official badges earned during <strong>GirlScript Summer of Code 2026</strong>
+</p>
 
 <br/>
 
@@ -197,10 +210,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
   />
 </a>
 
-
-<div style="height: 20px;"></div>
-
-<br/>
+<br/><br/>
 
 📌 *Pinned projects below speak for themselves 👇*
 
