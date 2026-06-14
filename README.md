@@ -31,7 +31,7 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
   />
 </a>
 
-<a href="https://arshverma.framer.website">
+<a href="https://arsh-verma.vercel.app">
   <img
     width="42"
     height="42"
