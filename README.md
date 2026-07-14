@@ -215,5 +215,3 @@ Open to **freelance projects** and **early-stage startup collaborations** in fro
 📌 *Pinned projects below speak for themselves 👇*
 
 </div>
-
-
